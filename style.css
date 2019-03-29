@@ -63,6 +63,22 @@ body{
 .social-icons li a:enabled{
     color:rgba(167, 161, 161, 0.78);
 }
+
+.fa-quora{
+    transform: scale(0.8);
+}
+
+.fa-envelope{
+    transform: scale(0.8);
+}
+
+.fa-free-code-camp{
+    transform: scale(0.8);
+}
+
+.fa-stack-overflow{
+    transform: scale(0.8);
+}
 /*-----------------------*/
 /*-------ICONS:HOVER-----*/
 /*-----------------------*/
