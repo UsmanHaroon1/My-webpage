@@ -23,6 +23,15 @@ body{
     transform: translate(-50%,-50%);
 }
 
+/*******Animation**********/
+.animated{
+    animation-duration: 5s;
+    animation-fill-mode: both;
+    animation-iteration-count: 1;
+    font-family: 'Montez', cursive;
+    animation-delay: 0.5s;
+}
+
 .about p{
     font-size: 25px;
     text-align: center;
