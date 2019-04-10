@@ -83,6 +83,10 @@ body{
 .fa-stack-overflow{
     transform: scale(0.8);
 }
+
+.fa-file-pdf-o{
+    transform: scale(0.8);
+}
 /*-----------------------*/
 /*-------ICONS:HOVER-----*/
 /*-----------------------*/
@@ -127,4 +131,10 @@ body{
 
 .fa-envelope:hover,
 .fa-envelope:active{
-    color:#ea4335;
+    color:#D44638;
+}
+
+.fa-file-pdf-o:hover,
+.fa-file-pdf-o:active{
+    color:#ff0000;
+}
