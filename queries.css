@@ -3,8 +3,11 @@
     .name{
         font-size:30px;
         position: absolute;
-        left:50%;
+        /*left:50%;*/
         top:50%;
+        margin-left:auto;
+        margin-right:auto;
+        color:red;
     }  
     .social-icons{
         padding-top:50px;
