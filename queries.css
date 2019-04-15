@@ -7,7 +7,6 @@
         top:50%;
         margin-left:auto;
         margin-right:auto;
-        color:red;
     }  
     .social-icons{
         padding-top:50px;
@@ -19,7 +18,6 @@
     .name{
         font-size:75px;
         position: absolute;
-        color:yellow;
     }
     .social-icons{
         padding-top:50px;
@@ -29,7 +27,11 @@
 /*Medium tablets with pixel 767px to 1023px*/
 @media only screen and (max-width:1023px){
     .name{
-        color:blue;
+        color:white;
+        position:absolute;
+        top:50%;
+        margin-left:auto;
+        margin-right:auto;
     }
 }
 
