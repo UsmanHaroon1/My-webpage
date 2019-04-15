@@ -27,11 +27,12 @@
 /*Medium tablets with pixel 767px to 1023px*/
 @media only screen and (max-width:1023px){
     .name{
-        color:white;
+        color:purple;
         position:absolute;
         top:50%;
-        margin-left:auto;
-        margin-right:auto;
+        left:50%;
+        /*margin-left:auto;
+        margin-right:auto;*/
     }
 }
 
